@@ -1,5 +1,4 @@
-# Description :pushpin:
-
+Description :pushpin:
 ----------
 
 Write a program that receives two numbers and returns their arithmetic mean.
