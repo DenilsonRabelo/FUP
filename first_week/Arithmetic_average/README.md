@@ -1,16 +1,17 @@
-description
+# Description :pushpin:
+
 ----------
 
 Write a program that receives two numbers and returns their arithmetic mean.
 
 
-Entry example
+Entry example :arrow_left:	
 ---------
 4
 
 2
 
 
-Output Example
+Output Example :arrow_right:	
 ------------
 3.000000
