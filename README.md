@@ -8,6 +8,6 @@
 weeks      | Exercises
 :-----------:|:----------:
 [first week](https://github.com/DenilsonRabelo/FUP/tree/main/first_week) | :student:	
-second week|  :student:	
-third week |  :student:	
-fourth week|  :student:	
+second week|  7 :octocat:	
+third week |  :octocat:
+fourth week|  :octocat:
