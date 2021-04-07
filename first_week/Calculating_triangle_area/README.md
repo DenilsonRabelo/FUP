@@ -3,7 +3,7 @@ Calculating the area of the triangle :bulb:
 </h1>
 
 <h1 align="center">
-<img src=https://vicentemanera.files.wordpress.com/2013/12/heron-de-alexandria.jpg>
+<img src=https://raw.githubusercontent.com/qxcodefup/arcade/master/base/002/__capa.jpg>
 </h1>
 
 <h1 align="center"> 
